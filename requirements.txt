@@ -1,12 +1,14 @@
 streamlit
 langchain
 langchain-community
+langchain-core
+langchain-text-splitters
 langchain-chroma
 langchain-groq
 langchain-huggingface
 chromadb
+sentence-transformers
 python-dotenv
 unstructured
-requests
 beautifulsoup4
-sentence-transformers
+requests
